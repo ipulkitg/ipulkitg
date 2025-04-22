@@ -1,6 +1,10 @@
 # Hello I'm ipulkitg, a software engineer 👋🏼:
 🤝 I’m attending Currently studying at Arizona State University, graduating May 2025
+
+
 🌱 I’m currently learning RAGs and LangChain
+
+
 💬 Ask me about Microsofts AI skills Fest
 
 # 💻 Tech Stack:
