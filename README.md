@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I%20AM%20IPULKITG
+![header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20sinedd777&fontColor=ffffff&animation=fadeIn&textBg=false](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'M%20IPULKITG&reversal=false&textBg=false))
 
 🤝 I’m attending Currently studying at Arizona State University, graduating May 2025
 
