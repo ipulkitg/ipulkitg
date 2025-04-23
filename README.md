@@ -1,4 +1,4 @@
-# Hello I'm ipulkitg, a software engineer 👋🏼:
+(https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I%20AM%20IPULKITG)
 🤝 I’m attending Currently studying at Arizona State University, graduating May 2025
 
 
