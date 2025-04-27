@@ -10,7 +10,7 @@
 
 🚀 Hosting my latest projects [**here**](https://portfolio-ipulkitg.vercel.app/)
 
-📄 Check out my [**resume**](https://drive.google.com/file/d/1pMzYIyrwrTPGhQSzxlikWRC0ctAyhnHh/view?usp=sharing)
+📄 Check out my [**resume**](https://drive.google.com/file/d/1W3xoaMQOC8gXOuyAoFRUXhhYT71oW2p3/view?usp=sharing)
 
 
 
