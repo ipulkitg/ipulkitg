@@ -2,9 +2,7 @@
 
 ## About Me
 
-🤝 Currently pursuing my Master's at **Arizona State University**, graduating **May 2025**
-
-🌱 Actively learning about **RAGs (Retrieval-Augmented Generation)** and **LangChain**
+🤝 Master's at **Arizona State University**, Recent Graduate  **May 2025**
 
 💬 Ask me about **Microsoft's AI Skills Fest** – happy to share my experience!
 
