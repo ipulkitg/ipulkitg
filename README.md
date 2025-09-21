@@ -6,9 +6,8 @@
 
 💬 Ask me about **Microsoft's AI Skills Fest** – happy to share my experience!
 
-🚀 Hosting my latest projects [**here**](https://portfolio-ipulkitg.vercel.app/)
+🚀 Hosting my latest projects [**here**](https://pulkitgpt.vercel.app/)
 
-📄 Check out my [**resume**](https://drive.google.com/file/d/1W3xoaMQOC8gXOuyAoFRUXhhYT71oW2p3/view?usp=sharing)
 
 
 
